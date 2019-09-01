@@ -12,4 +12,4 @@ I am a research assistant at the [Indian Institute of Science](https://www.iisc.
 
 My research interests lies in the intersection of Machine learning and Computer vision, especially on learning with scarce data, weakly supervised learning and geometrical approaches towards vision.  
 
-Prior to this, I was an Associate Software Engineer in [Robert Bosch](https://www.bosch.in/) where I worked on applying statistical machine learning algorithms to develop component models for vehicle modelling software(VeMoX). I have interned in the student satellite program from [ISRO](https://www.isro.gov.in/) where I worked in developing an altitude determination algoorithm using Extended Kalman filters. 
+Prior to this, I was an Associate Software Engineer in [Robert Bosch](https://www.bosch.in/) where I worked on applying statistical machine learning algorithms to develop component models for vehicle modelling software(VeMoX). Previously, I have interned in the student satellite program from [ISRO](https://www.isro.gov.in/) where I worked on developing an altitude determination algorithm using Extended Kalman filters. 
