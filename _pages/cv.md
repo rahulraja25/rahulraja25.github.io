@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here for my updated resume](https://github.com/narendoraiswamy/narendoraiswamy.github.io/blob/master/files/Naren_Doraiswamy_CV.pdf)
+[Click here for my updated resume](https://narendoraiswamy.github.io/files/Naren_Doraiswamy_CV.pdf)
