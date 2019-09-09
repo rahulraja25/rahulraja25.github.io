@@ -1,0 +1,11 @@
+---
+title: "Meta-Weakly supervised few-shot learning"
+collection: publications
+permalink: /publication/meta-weakly supervised
+excerpt: 'We propose a novel setting and a training paradigm for few shot learning with the usage of highly available web data and image level labels.'
+date: 2019-09-07
+venue: '--'
+paperurl: ''
+citation: 'Mennatullah Siam*, <b>Naren Doraiswamy*</b>, Boris Oreshkin. (2019).<i>NeurIPS Workshop</i>. <b>NeurIPS 2019</b>.''
+---
+Under review at NeurIPS Workshop 2019. Paper will be available on arxiv soon.
