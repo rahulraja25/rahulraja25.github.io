@@ -1,8 +1,8 @@
 ---
-title: "Meta-Weakly supervised few-shot learning"
+title: "Meta-Weakly supervised few-shot semantic segmentation"
 collection: publications
-permalink: /publication/meta-weakly supervised
-excerpt: 'We propose a novel setting and a training paradigm for few shot learning with the usage of highly available web data and image level labels.'
+permalink: /publication/meta-weakly-supervised
+excerpt: 'We propose a novel setting and a training paradigm for few shot semantic segmentation by the usage of highly available web data with image level labels.'
 date: 2019-09-07
 venue: '--'
 paperurl: ''
