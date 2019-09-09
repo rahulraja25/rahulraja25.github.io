@@ -2,7 +2,7 @@
 title: "Deep learning Instructor"
 collection: teaching
 type: "Graduate level Course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/nurtureai
 venue: "Nvidia"
 date: 2018
 location: "Bangalore, India"
