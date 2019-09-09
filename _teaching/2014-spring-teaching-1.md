@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Deep learning Instructor"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate level Course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Nvidia"
+date: 2018
+location: "Bangalore, India"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Me along with a group of 5 took weekend classes on deep learning for a bunch of 50 AI enthusiasts.
