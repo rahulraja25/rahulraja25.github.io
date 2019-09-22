@@ -16,7 +16,7 @@ main:
  #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: https://narendoraiswamy.github.io/files/Naren_Doraiswamy_CV.pdf
     
   #- title: "Guide"
   #  url: /markdown/
