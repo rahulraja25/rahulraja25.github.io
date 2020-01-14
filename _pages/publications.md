@@ -14,5 +14,5 @@ Mennatullah Siam\*, <b>Naren Doraiswamy</b>\*, Boris Oreshkin*, Hengshuai Yao, M
 
 
 <b>[Efficient semi-supervised domain adaptation using self training](http://narendoraiswamy.github.io/publication/semi-supervised-adaptation)</b> <br> 
-<b>Naren Doraiswamy</b>\*, Soma biswas.
+<b>Naren Doraiswamy</b>\*, Soma biswas.<br> 
 <i>Under preparation<b></b> </i>. 
