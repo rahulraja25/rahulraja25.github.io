@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/meta-weakly-supervised
 date: 2019-12-18
 venue: 'ICLR PML4DC Workshop 2020'
-paperurl: 'https://arxiv.org/abs/1912.08936'
 citation: 'Mennatullah Siam*, <b>Naren Doraiswamy*</b>, Boris Oreshkin*, Hengshuai Yao, Martin Jagersand. (2019).<i>Accepted in ICLR 2020 PML4DC Workshop</i>. <b>ICLR 2020</b>'
 ---
 [[PDF]](https://arxiv.org/abs/1912.08936)
