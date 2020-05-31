@@ -10,7 +10,7 @@ Mennatullah Siam\*, <b>Naren Doraiswamy</b>\*, Boris Oreshkin*, Hengshuai Yao, M
 
 <b>[One-shot webly supervised Segmentation](http://narendoraiswamy.github.io/publication/Dynamic_incremental_few_shot_learning)</b> <br> 
 Mennatullah Siam\*, <b>Naren Doraiswamy</b>\*, Boris Oreshkin*, Hengshuai Yao, Martin Jagersand.
-<i>Under review in <b>CVPR 2020</b> </i>. 
+<i>Accepted in <b>IJCAI 2020</b> </i>. 
 
 
 <b>[Efficient semi-supervised domain adaptation using self training](http://narendoraiswamy.github.io/publication/semi-supervised-adaptation)</b> <br> 
