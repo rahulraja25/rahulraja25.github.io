@@ -8,7 +8,8 @@ author_profile: true
 Mennatullah Siam\*, <b>Naren Doraiswamy</b>\*, Boris Oreshkin*, Hengshuai Yao, Martin Jagersand.
 <i>8th International Conference on Learning Representations Workshop</i>. <b> ICLR PML4DC Workshop 2020</b>.
 
-<b>[One-shot webly supervised Segmentation](http://narendoraiswamy.github.io/publication/Dynamic_incremental_few_shot_learning)</b> <br> 
+<b>[Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Embeddings
+](http://narendoraiswamy.github.io/publication/Dynamic_incremental_few_shot_learning)</b> <br> 
 Mennatullah Siam\*, <b>Naren Doraiswamy</b>\*, Boris Oreshkin*, Hengshuai Yao, Martin Jagersand.
 <i>Accepted in <b>IJCAI 2020</b> </i>. 
 
