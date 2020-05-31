@@ -4,7 +4,6 @@ collection: publications
 permalink: /publication/Dynamic_incremental_few_shot_learning
 date: 2019-11-15
 venue: 'IJCAI 2020'
-paperurl: 'https://arxiv.org/abs/2001.09540'
 citation: 'Mennatullah Siam*, <b>Naren Doraiswamy*</b>, Boris Oreshkin*, Hengshuai Yao, Martin Jagersand.(2019). <i>Accepted in IJCAI 2020</i>.'
 ---
 [[PDF]](https://arxiv.org/abs/2001.09540)
