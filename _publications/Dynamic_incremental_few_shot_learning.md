@@ -1,5 +1,5 @@
 ---
-title: " Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Inputs "
+title: "Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Embeddings"
 collection: publications
 permalink: /publication/Dynamic_incremental_few_shot_learning
 date: 2019-11-15
