@@ -19,4 +19,5 @@ Prior to this, I was an Associate Software Engineer in [Robert Bosch](https://ww
 
 **News**:
 
+Our paper on weakly supervised few-shot segmentation is accepted at IJCAI 2020.
 Our paper on few-shot object segmentation is accepted at ICLR PML4DC 2020 workshop. 
