@@ -1,14 +1,12 @@
 ---
-title: "Efficient semi-supervised domain adaptation with self training."
+title: "Active learning for few shot semi-supervised domain adaptation."
 collection: publications
 permalink: /publication/semi-supervised-adaptation
-date: '2020-03-05'
+date: '2020-10-29'
 venue: '--'
 paperurl: ''
-citation: '<b>Naren Doraiswamy*</b>, Soma Biswas (2020).<i>Under preparation</i>'
+citation: '<b>Naren Doraiswamy*</b>, Titir Dutta, Soma Biswas, Sawa Takamuku, Aditya Chepuri, Balasubramanian Vengatesan, Naotake Natori.<i>Under review in WACV 2020</i>'
 ---
 
 Abstract:
 
-With the availability of few labeled data in the target domain, we can improve the accuracies of the developed the adaptation algorithms to a much greater extent. 
-We further utilize these few labeled data and extract features from the hard to select samples in the target domain to improve the feature extraction of the network.
