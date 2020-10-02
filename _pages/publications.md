@@ -14,6 +14,6 @@ Mennatullah Siam\*, <b>Naren Doraiswamy</b>\*, Boris Oreshkin*, Hengshuai Yao, M
 <i>Accepted in <b>IJCAI 2020</b> </i>. 
 
 
-<b>[Efficient semi-supervised domain adaptation using self training](http://narendoraiswamy.github.io/publication/semi-supervised-adaptation)</b> <br> 
-<b>Naren Doraiswamy</b>\*, Soma biswas.<br> 
-<i>Under preparation<b></b> </i>. 
+<b>[Active learning for few shot semi-supervised domain adaptation.](http://narendoraiswamy.github.io/publication/semi-supervised-adaptation)</b> <br> 
+<b>Naren Doraiswamy</b>\*, Titir Dutta, Soma Biswas, Sawa Takamuku, Aditya Chepuri, Balasubramanian Vengatesan, Naotake Natori.<br> 
+<i>Under review WACV 2021<b></b> </i>. 
