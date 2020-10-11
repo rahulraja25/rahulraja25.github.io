@@ -17,7 +17,7 @@ Prior to this, I was an Associate Software Engineer in [Robert Bosch](https://ww
 
 **News**:
 
-<ul> <li> Serving as a reviewer for WACV 2021 </li>
+<ul> <li> Serving as a reviewer for <b>WACV 2021</b> </li>
 <li> Served as a Pre-conference volunteer for <b>ICLR 2020</b> </li>
-<li>Our paper on weakly supervised few-shot segmentation is accepted at IJCAI 2020.</li>
-<li>Our paper on few-shot object segmentation is accepted at ICLR PML4DC 2020 workshop.</li> </ul>
+<li>Our paper on weakly supervised few-shot segmentation is accepted at <b>IJCAI 2020</b></li>
+<li>Our paper on few-shot object segmentation is accepted at <b>ICLR PML4DC 2020</b> workshop</li> </ul>
