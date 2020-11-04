@@ -16,7 +16,7 @@ Mennatullah Siam\*, <b>Naren Doraiswamy</b>\*, Boris Oreshkin*, Hengshuai Yao, M
 
 <b>[Active learning for few shot semi-supervised domain adaptation.](http://narendoraiswamy.github.io/publication/semi-supervised-adaptation)</b> <br> 
 <b>Naren Doraiswamy</b>\*, Titir Dutta, Soma Biswas, Sawa Takamuku, Aditya Chepuri, Balasubramanian Vengatesan, Naotake Natori.<br> 
-<i>Under review WACV 2021<b></b> </i>. 
+<i>Under review<b></b> </i>. 
 
 <b>[Manifold Co-teaching for semi-supervised domain adaptation.](http://narendoraiswamy.github.io/publication/coteaching-DomainAdapt)</b> <br> 
 <b>Naren Doraiswamy</b>\*, Soma Biswas<br> 
