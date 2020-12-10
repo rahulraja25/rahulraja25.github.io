@@ -19,9 +19,9 @@ Mennatullah Siam\*, <b>Naren Doraiswamy</b>\*, Boris Oreshkin*, Hengshuai Yao, M
 <i>Under review<b></b> </i>. 
 
 <b>[Manifold Co-teaching for semi-supervised domain adaptation.](http://narendoraiswamy.github.io/publication/coteaching-DomainAdapt)</b> <br> 
-<b>Naren Doraiswamy</b>\*, Soma Biswas<br> 
+<b>Naren Doraiswamy</b>\*, Varun Jampani, Soma Biswas<br> 
 <i>Under preparation<b></b> </i>. 
 
 <b>[Universal domain adaptation using self-supervision.](http://narendoraiswamy.github.io/publication/univ-domain-adaptation)</b> <br> 
-<b>Naren Doraiswamy</b>\*, Soma Biswas<br> 
+<b>Naren Doraiswamy</b>\*, Varun Jampani, Soma Biswas<br> 
 <i>Under preparation<b></b> </i>. 
