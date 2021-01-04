@@ -5,4 +5,6 @@ author_profile: true
 ---
 
 <br>
-[Deep learning Instructor](https://narendoraiswamy.github.io/teaching/2018-07-08-teaching)
+[AI Instructor](https://narendoraiswamy.github.io/teaching/2018-07-08-teaching)
+
+[Deep learning mentor](https://narendoraiswamy.github.io/teaching/2020-12-12-teaching)
