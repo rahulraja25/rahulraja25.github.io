@@ -14,6 +14,8 @@ I actively collaborate with Ph.D students from University of Alberta and researc
 
 Prior to this, I was an Associate Software Engineer in [Robert Bosch](https://www.bosch.in/) where I worked on applying statistical machine learning algorithms to develop component models for vehicle modelling software(VeMoX). Previously, I have interned in the student satellite program from [ISRO](https://www.isro.gov.in/) where I worked on developing an attitude determination algorithm using Extended Kalman filters. 
 
+During my free time, I trek and read about economics and financial markets. 
+
 
 **News**:
 
