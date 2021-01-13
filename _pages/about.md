@@ -19,7 +19,7 @@ During my free time, I trek and read about economics and financial markets.
 
 **News**:
 
-<ul> <li> I will be presenting our work at IJCAI 2020 conference on Jan 15th. </li>
+<ul> <li> I will be presenting our work at <b>IJCAI 2020</b> conference on Jan 15th. </li>
 <li> Serving as a reviewer for <b>WACV 2021</b> </li>
 <li> Served as a Pre-conference volunteer for <b>ICLR 2020</b> </li>
 <li>Our paper on weakly supervised few-shot segmentation is accepted at <b>IJCAI 2020</b></li>
