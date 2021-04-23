@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at the [Indian Institute of Science](https://www.iisc.ac.in/) where I work under the supervision of [Prof. Soma Biswas](http://www.ee.iisc.ac.in/new/people/faculty/soma.biswas/index.html). My research interests lies in Machine learning and Computer vision. In over two years of my experience as a junior researcher here, I have extensively worked on semantic segmentation, learning with few labeled data, domain adaptation, active learning and developing hardware efficient deep learning models.
+I am a researcher at the [Indian Institute of Science](https://www.iisc.ac.in/). My research interests lies in Machine learning and Computer vision. In over two years of my experience as a junior researcher here, I have extensively worked on semantic segmentation, learning with few labeled data, domain adaptation, active learning and developing hardware efficient deep learning models.
 
 I actively collaborate with Ph.D students from University of Alberta and research scientists from Element AI and Google. I am currently working on proposing efficient algorithms for semi-supervised and universal domain adaptation methods.
 
