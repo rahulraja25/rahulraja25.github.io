@@ -6,11 +6,10 @@ author_profile: true
 <br>
 <b>[One-Shot Weakly Supervised Video Object Segmentation](https://narendoraiswamy.github.io/publication/meta-weakly-supervised)</b> <br> 
 Mennatullah Siam\*, <b>Naren Doraiswamy</b>\*, Boris Oreshkin*, Hengshuai Yao, Martin Jagersand. <br>
-<i>International Conference on Learning Representations Workshop</i>. <b> ICLR PML4DC Workshop 2020</b>.
+<i> <b> ICLR PML4DC Workshop 2020</b></i>.
 
-<b>[Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Embeddings
-](http://narendoraiswamy.github.io/publication/Dynamic_incremental_few_shot_learning)</b> <br> 
-Mennatullah Siam\*, <b>Naren Doraiswamy</b>\*, Boris Oreshkin*, Hengshuai Yao, Martin Jagersand.
+<b>[Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Embeddings](http://narendoraiswamy.github.io/publication/Dynamic_incremental_few_shot_learning)</b> <br> 
+Mennatullah Siam\*, <b>Naren Doraiswamy</b>\*, Boris Oreshkin*, Hengshuai Yao, Martin Jagersand. <br>
 <i><b>IJCAI 2020</b> </i>. 
 
 
