@@ -20,6 +20,7 @@ During my free time, I trek and read about economics and financial markets.
 **News**:
 
 <ul> <li> Will be attending EEML summer school 2021. </li> 
+<li> Our paper on semi-supervised domain adaptation has been accepted at <b>CVPR L2ID 2021</b> workshop. </li>
 <li> Serving as a reviewer for IEEE Transactions on Multimedia </li>
 <li> I will be presenting our work at <b>IJCAI 2020</b> conference. </li>
 <li> Serving as a reviewer for <b>WACV 2021</b> </li>
