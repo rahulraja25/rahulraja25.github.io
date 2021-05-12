@@ -14,7 +14,7 @@ Mennatullah Siam\*, <b>Naren Doraiswamy</b>\*, Boris Oreshkin*, Hengshuai Yao, M
 <i>Accepted in <b>IJCAI 2020</b> </i>. 
 
 
-<b>[mproving Semi-Supervised domain adaptation using effective target selection and semantics.](http://narendoraiswamy.github.io/publication/semi-supervised-adaptation)</b> <br> 
+<b>[Improving Semi-Supervised domain adaptation using effective target selection and semantics.](http://narendoraiswamy.github.io/publication/semi-supervised-adaptation)</b> <br> 
 Anurag Singh*, <b>Naren Doraiswamy</b>*, Sawa Takamuku, Megh Bhalerao, Titir Dutta, Soma Biswas, Aditya Chepuri, Balasubramanian Vengatesan, Naotake Natori.<br> 
 <i>CVPR L2ID workshop 2021<b></b> </i>. 
 
