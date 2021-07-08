@@ -19,11 +19,12 @@ During my free time, I trek and read about economics and financial markets.
 
 **News**:
 
-<ul> <li> Will be attending EEML summer school 2021. </li> 
+<ul>  <li> Serving as a reviewer for <b>WACV 2022</b>. </li>
+<li> Will be attending <b>EEML</b> summer school 2021. </li> 
 <li> Our paper on semi-supervised domain adaptation has been accepted at <b>CVPR L2ID 2021</b> workshop. </li>
-<li> Serving as a reviewer for IEEE Transactions on Multimedia </li>
+<li> Serving as a reviewer for IEEE Transactions on Multimedia. </li>
 <li> I will be presenting our work at <b>IJCAI 2020</b> conference. </li>
-<li> Serving as a reviewer for <b>WACV 2021</b> </li>
-<li> Served as a Pre-conference volunteer for <b>ICLR 2020</b> </li>
-<li> Our paper on weakly supervised few-shot segmentation is accepted at <b>IJCAI 2020</b> </li>
-<li> Our paper on few-shot object segmentation is accepted at <b>ICLR PML4DC 2020</b> workshop </li> </ul>
+<li> Serving as a reviewer for <b>WACV 2021</b>. </li>
+<li> Served as a Pre-conference volunteer for <b>ICLR 2020</b>. </li>
+<li> Our paper on weakly supervised few-shot segmentation is accepted at <b>IJCAI 2020</b>. </li>
+<li> Our paper on few-shot object segmentation is accepted at <b>ICLR PML4DC 2020</b> workshop. </li> </ul>
