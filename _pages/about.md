@@ -8,18 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a researcher at the [Indian Institute of Science](https://www.iisc.ac.in/). My research interests lies in Machine learning and Computer vision. In over two years of my experience as a junior researcher here, I have extensively worked on semantic segmentation, learning with few labeled data, domain adaptation, active learning and developing hardware efficient deep learning models.
+I am a first year graduate student at the University of Michigan, Ann Arbor. I am broadly interested in machine learning with applications in computer vision. 
+Prior to joining UMich, I was a junior researcher at the [Indian Institute of Science](https://www.iisc.ac.in/) where I got to extensively work on semantic segmentation, learning with limited labeled data, domain adaptation, active and self-supervised learning.
 
-I actively collaborate with Ph.D students from University of Alberta and research scientists from Element AI and Google. I am currently working on proposing efficient algorithms for semi-supervised and universal domain adaptation methods.
+Before my stint at IISc, I was an Associate Software Engineer in [Robert Bosch](https://www.bosch.in/) where I worked on applying statistical machine learning algorithms to develop component models for vehicle modelling software(VeMoX). In undergrad, I had interned in the student satellite program from [ISRO](https://www.isro.gov.in/) where I worked on developing an attitude determination algorithm using Extended Kalman filters. 
 
-Prior to this, I was an Associate Software Engineer in [Robert Bosch](https://www.bosch.in/) where I worked on applying statistical machine learning algorithms to develop component models for vehicle modelling software(VeMoX). Previously, I have interned in the student satellite program from [ISRO](https://www.isro.gov.in/) where I worked on developing an attitude determination algorithm using Extended Kalman filters. 
-
-During my free time, I trek and read about economics and financial markets. 
+Apart from research, I enjoy long treks, music from Pink Floyd and Odesza, and exploring financial markets. 
 
 
 **News**:
 
-<ul>  <li> Serving as a reviewer for <b>WACV 2022</b>. </li>
+<ul> <li> Finally started grad school at UMich!! Wohoo. </li>
+<li> Serving as a reviewer for <b>WACV 2022</b>. </li>
 <li> Will be attending <b>EEML</b> summer school 2021. </li> 
 <li> Our paper on semi-supervised domain adaptation has been accepted at <b>CVPR L2ID 2021</b> workshop. </li>
 <li> Serving as a reviewer for IEEE Transactions on Multimedia. </li>
