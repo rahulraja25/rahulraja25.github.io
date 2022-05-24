@@ -18,8 +18,10 @@ Apart from research, I enjoy long treks, music from Pink Floyd and Odesza, and e
 
 **News**:
 
-<ul> <li> Starting my research internship in summer 2022. </li>
+<ul> <li>  </li>
+<li> Starting my research internship in summer 2022. </li>
 <li> Serving as a reviewer for <b>ACML 2022</b>. </li>
+<li> Serving as a reviewer for <b>CVPR 2022</b>. </li>
 <li> Finally started grad school at UMich!! Wohoo. </li>
 <li> Serving as a reviewer for <b>WACV 2022</b>. </li>
 <li> Will be attending <b>EEML</b> summer school 2021. </li> 
