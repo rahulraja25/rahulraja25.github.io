@@ -18,7 +18,9 @@ Apart from research, I enjoy long treks, music from Pink Floyd and Odesza, and e
 
 **News**:
 
-<ul> <li> Finally started grad school at UMich!! Wohoo. </li>
+<ul> <li> Starting my research internship in summer 2022. </li>
+<li> Serving as a reviewer for <b>ACML 2022</b>. </li>
+<li> Finally started grad school at UMich!! Wohoo. </li>
 <li> Serving as a reviewer for <b>WACV 2022</b>. </li>
 <li> Will be attending <b>EEML</b> summer school 2021. </li> 
 <li> Our paper on semi-supervised domain adaptation has been accepted at <b>CVPR L2ID 2021</b> workshop. </li>
