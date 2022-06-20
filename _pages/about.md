@@ -18,7 +18,7 @@ Apart from research, I enjoy long treks, music from Pink Floyd and Odesza, and e
 
 **News**:
 
-<ul> <li>  </li>
+<ul>
 <li> Starting my research internship in summer 2022. </li>
 <li> Serving as a reviewer for <b>ACML 2022</b>. </li>
 <li> Serving as a reviewer for <b>CVPR 2022</b>. </li>
