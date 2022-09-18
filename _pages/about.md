@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year graduate student at the University of Michigan, Ann Arbor. I am broadly interested in machine learning with applications in computer vision. 
+I am a second year graduate student at the University of Michigan, Ann Arbor and I am fortunate to be advised by [Stella X. Yu](http://web.eecs.umich.edu/~stellayu/index.html). I am broadly interested in machine learning with applications in computer vision. 
 Prior to joining UMich, I was a junior researcher at the [Indian Institute of Science](https://www.iisc.ac.in/) where I got to extensively work on semantic segmentation, learning with limited labeled data, domain adaptation, active and self-supervised learning.
 
 Before my stint at IISc, I was an Associate Software Engineer in [Robert Bosch](https://www.bosch.in/) where I worked on applying statistical machine learning algorithms to develop component models for vehicle modelling software(VeMoX). In undergrad, I had interned in the student satellite program from [ISRO](https://www.isro.gov.in/) where I worked on developing an attitude determination algorithm using Extended Kalman filters. 
