@@ -19,6 +19,7 @@ Apart from research, I enjoy long treks, music from Pink Floyd and Odesza, learn
 **News**:
 
 <ul>
+<li> Serving as a Graduate Student Instructor (GSI) at the School of Information in Winter 2023.</li>
 <li> Serving as a Graduate Student Instructor (GSI) at the School of Information in fall 2022.</li>
 <li> Serving as a reviewer for <b>IEEE PMLR</b>. </li>  
 <li> Serving as a reviewer for <b>WACV 2023</b>. </li>
