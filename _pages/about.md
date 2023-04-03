@@ -13,7 +13,7 @@ Prior to joining UMich, I was a junior researcher at the [Indian Institute of Sc
 
 Before my stint at IISc, I was an Associate Software Engineer in [Robert Bosch](https://www.bosch.in/) where I worked on applying statistical machine learning algorithms to develop component models for vehicle modelling software(VeMoX). In undergrad, I had interned in the student satellite program from [ISRO](https://www.isro.gov.in/) where I worked on developing an attitude determination algorithm using Extended Kalman filters. 
 
-Apart from research, I enjoy long treks, music from Pink Floyd and Odesza, learning about economics and exploring financial markets. 
+On the personal front, I enjoy long treks, music from Pink Floyd and Odesza, learning about behavioural economics, psychology and exploring financial markets. I am an AI researcher by day and a geo-political analyst by night. Can talk about AI, MMA, F1 and politics all day, everyday:) 
 
 
 **News**:
