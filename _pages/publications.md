@@ -21,6 +21,6 @@ Anurag Singh\*, <b>Naren Doraiswamy</b>\*, Sawa Takamuku, Megh Bhalerao, Titir D
 <b>Naren Doraiswamy</b>\*, Varun Jampani, Soma Biswas<br> 
 <i>Under preparation<b></b> </i>. 
 
-<b>[Universal domain adaptation using self-supervision.](http://narendoraiswamy.github.io/publication/univ-domain-adaptation)</b> <br> 
-<b>Naren Doraiswamy</b>\*, Varun Jampani, Soma Biswas<br> 
-<i>Under preparation<b></b> </i>. 
+#<b>[Universal domain adaptation using self-supervision.](http://narendoraiswamy.github.io/publication/univ-domain-adaptation)</b> <br> 
+#<b>Naren Doraiswamy</b>\*, Varun Jampani, Soma Biswas<br> 
+#<i>Under preparation<b></b> </i>. 
