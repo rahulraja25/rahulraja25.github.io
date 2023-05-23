@@ -16,11 +16,3 @@ Mennatullah Siam\*, <b>Naren Doraiswamy</b>\*, Boris Oreshkin*, Hengshuai Yao, M
 <b>[Improving Semi-Supervised domain adaptation using effective target selection and semantics.](http://narendoraiswamy.github.io/publication/semi-supervised-adaptation)</b> <br> 
 Anurag Singh\*, <b>Naren Doraiswamy</b>\*, Sawa Takamuku, Megh Bhalerao, Titir Dutta, Soma Biswas, Aditya Chepuri, Balasubramanian Vengatesan, Naotake Natori.<br> 
 <i> <b>CVPR L2ID workshop 2021</b> </i>. 
-
-<b>[Manifold Co-teaching for semi-supervised domain adaptation.](http://narendoraiswamy.github.io/publication/coteaching-DomainAdapt)</b> <br> 
-<b>Naren Doraiswamy</b>\*, Varun Jampani, Soma Biswas<br> 
-<i>Under preparation<b></b> </i>. 
-
-#<b>[Universal domain adaptation using self-supervision.](http://narendoraiswamy.github.io/publication/univ-domain-adaptation)</b> <br> 
-#<b>Naren Doraiswamy</b>\*, Varun Jampani, Soma Biswas<br> 
-#<i>Under preparation<b></b> </i>. 
