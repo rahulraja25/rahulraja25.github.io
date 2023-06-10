@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<span style="color:red"> I am on the job market from Summer 2023. I am looking for full-time opportunities in the field of AI/ML/CV. Please get in touch if you feel I fit any related roles. </span>
 
 I am a second year graduate student at the University of Michigan, Ann Arbor and I am fortunate to be advised by [Stella X. Yu](http://web.eecs.umich.edu/~stellayu/index.html). I am broadly interested in machine learning with applications in computer vision. 
 Prior to joining UMich, I was a junior researcher at the [Indian Institute of Science](https://www.iisc.ac.in/) where I got to extensively work on semantic segmentation, learning with limited labeled data, domain adaptation, active and self-supervised learning.
@@ -15,9 +16,7 @@ Before my stint at IISc, I was a Software Engineer in [Robert Bosch](https://www
 
 On the personal front, I enjoy long treks, music from Pink Floyd and Odesza, learning about behavioural economics, psychology and exploring financial markets. I am an AI researcher by day and a geo-political analyst by night. Can talk about AI, MMA, F1 and life all day, everyday:) 
 
-<span style="color:red"> I am on the job market from Summer 2023. I am looking for full-time opportunities in the field of AI/ML/CV. Please get in touch if you feel I fit any related roles. </span>
-
-I am also open for research collaborations. Hit me up to discuss potential research problems! 
+I am also open for research collaborations. Hit me up to discuss and collaborate on potential research problems! 
 
 **News**:
 
