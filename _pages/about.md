@@ -24,7 +24,7 @@ I am open to research collaborations. Hit me up to discuss and collaborate on po
 <li> Serving as a reviewer for ECCV 2024</li>  
 <li> Serving as a Graduate Student Instructor (GSI) at the School of Information in Winter 2023.</li>
 <li> Serving as a Graduate Student Instructor (GSI) at the School of Information in fall 2022.</li>
-<li> Serving as a reviewer for <b>IEEE PMLR</b>. </li>  
+<li> Serving as a reviewer for <b>IEEE TMLR</b>. </li>  
 <li> Serving as a reviewer for <b>WACV 2023</b>. </li>
 <li> Starting my research internship in summer 2022. </li>
 <li> Serving as a reviewer for <b>ACML 2022</b>. </li>
