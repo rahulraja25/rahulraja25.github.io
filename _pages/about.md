@@ -16,15 +16,15 @@ I enjoy long treks, music from Pink Floyd and Odesza, learning about behavioural
 
 I am open to research collaborations. Hit me up to discuss and collaborate on potential research problems! 
 
-<span style="color:red"> Update: I am in the Industry job market! Please reach out (narend@umich.edu) if I might be a good fit for your team. </span>
+<span style="color:red"> Update: I am on the Industry job market! Please reach out (narend@umich.edu) if I might be a good fit for your team. </span>
 
 **News**:
 
 <ul>
-<li> Serving as a reviewer for <b>ECCV 2024</b>.</li>  
+<li> Serving as a reviewer for <b> ECCV 2024 </b>.</li>  
 <li> Serving as a Graduate Student Instructor (GSI) at the School of Information in Winter 2023.</li>
 <li> Serving as a Graduate Student Instructor (GSI) at the School of Information in fall 2022.</li>
-<li> Serving as a reviewer for <b>Transactions on Machine Learning Research</b>. </li>  
+<li> Serving as a reviewer for <b> Transactions on Machine Learning Research. </b> </li>  
 <li> Serving as a reviewer for <b>WACV 2023</b>. </li>
 <li> Starting my research internship in summer 2022. </li>
 <li> Serving as a reviewer for <b>ACML 2022</b>. </li>
