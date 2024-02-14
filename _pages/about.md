@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Research Associate and Adjunct lecturer at the University of Michigan. I am a recent Master's graduate from the University of Michigan, Ann Arbor and I was fortunate to be advised by [Stella X. Yu](http://web.eecs.umich.edu/~stellayu/index.html). I am broadly interested in machine learning with applications in computer vision and Natural Language Processing. Specifically, I am currently exploring the emerging learning capabilities of Large language models (In-Context learning) and adapting diffusion models for dense prediction tasks and adversarial robustness. 
+I am currently a Research Associate and Adjunct lecturer at the University of Michigan. I am a recent Master's graduate from the University of Michigan, Ann Arbor and I was fortunate to be advised by [Stella X. Yu](http://web.eecs.umich.edu/~stellayu/index.html). I am broadly interested in machine learning with applications in computer vision and Natural Language Processing. Specifically, I am exploring the emerging learning capabilities of Large language models (In-Context learning) and adapting diffusion models for dense prediction tasks and adversarial robustness. 
 Prior to joining UMich, I was a junior researcher at the [Indian Institute of Science](https://www.iisc.ac.in/) where I got to extensively work on semantic segmentation, learning with limited labelled data, domain adaptation, active and self-supervised learning.
 
 Before my stint at IISc, I was a Software Engineer in [Robert Bosch](https://www.bosch.in/) where I worked on applying statistical machine learning algorithms to develop component models for vehicle modelling software(VeMoX). In undergrad, I interned in the student satellite program from [ISRO](https://www.isro.gov.in/) where I worked on developing an attitude determination algorithm using Extended Kalman filters. 
@@ -21,10 +21,10 @@ I am open to research collaborations. Hit me up to discuss and collaborate on po
 **News**:
 
 <ul>
-<li> Serving as a reviewer for <b>ECCV 2024</b>. </li>  
+<li> Serving as a reviewer for ECCV 2024. </li>  
 <li> Serving as a Graduate Student Instructor (GSI) at the School of Information in Winter 2023.</li>
 <li> Serving as a Graduate Student Instructor (GSI) at the School of Information in fall 2022.</li>
-<li> Serving as a reviewer for <b>Transactions on Machine Learning Research</b>. </li>  
+<li> Serving as a reviewer for Transactions on Machine Learning Research. </li>  
 <li> Serving as a reviewer for <b>WACV 2023</b>. </li>
 <li> Starting my research internship in summer 2022. </li>
 <li> Serving as a reviewer for <b>ACML 2022</b>. </li>
