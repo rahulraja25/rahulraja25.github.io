@@ -22,7 +22,7 @@ I am open to research collaborations. Hit me up to discuss and collaborate on po
 **News**:
 
 <ul>
-  <li> Serving as a reviewer for <b>IJCAI 2023</b>. </li>
+  <li> Serving as a reviewer for <b>IJCAI 2024</b>. </li>
   <li> Serving as a reviewer for <b>ECCV 2024</b>. </li>
   <li> Serving as a Graduate Student Instructor (GSI) at the School of Information in Winter 2023.</li>
   <li> Serving as a Graduate Student Instructor (GSI) at the School of Information in fall 2022.</li>
