@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Research Associate and Adjunct lecturer at the University of Michigan. I am a recent Master's graduate from the University of Michigan, Ann Arbor and I was fortunate to be advised by [Stella X. Yu](http://web.eecs.umich.edu/~stellayu/index.html). I am broadly interested in machine learning with applications in Computer Vision and Natural Language Processing. Specifically, I am exploring the emerging learning capabilities of Large language models (In-Context learning) and adapting diffusion models for dense prediction tasks and eliciting adversarial robustness. 
+I am currently a Research Associate and Adjunct lecturer at the University of Michigan. I graduated from the University of Michigan, Ann Arbor in 2023 and I was fortunate to be advised by [Stella X. Yu](http://web.eecs.umich.edu/~stellayu/index.html). I am broadly interested in machine learning with applications in Computer Vision and Natural Language Processing. Over the past 2 years, I have developed a passion for seeing research from its initial conception to eventual application. In this process, I have extensively learnt developing custom CUDA kernels, LLM optimization and inference techniques and a bit of MLOps along the way. On the pure research side, I am enthusiastic about post-training diffusion models with human feedback. I'm excited to develop better controllability and alignment of multi-modal models in the coming years. I have also explored technqiues exploring the emerging learning capabilities of Large language models (In-Context learning) and adapting diffusion models for dense prediction tasks and eliciting adversarial robustness. 
 
-Prior to joining UMich, I was a junior researcher at the [Indian Institute of Science](https://www.iisc.ac.in/) where I got to extensively work on semantic segmentation, learning with limited labelled data, domain adaptation, active and self-supervised learning.
+Prior to joining UMich, I was a junior researcher at the [Indian Institute of Science](https://www.iisc.ac.in/) where I got to extensively work on meta-learning, active & self-supervised learning, domain adaptation and dense prediction tasks like semantic segmentation.
 
 Before my stint at IISc, I was a Software Engineer in [Robert Bosch](https://www.bosch.in/) where I worked on applying statistical machine learning algorithms to develop component models for vehicle modelling software(VeMoX). In undergrad, I interned in the student satellite program from [ISRO](https://www.isro.gov.in/) where I worked on developing an attitude determination algorithm using Extended Kalman filters. 
 
-I enjoy long treks, music from Pink Floyd and Odesza, learning about behavioural economics, psychology and exploring financial markets. I am an AI researcher by day and a geo-political analyst by night. Can talk about AI, MMA, F1 and life all day, every day :) 
+I enjoy long treks, music from Pink Floyd and Odesza, learning about behavioural economics, psychology and exploring financial markets. I am an AI researcher by day and a geo-political analyst by night. An avid enthusiast of life, MMA, and F1:) 
 
 I am open to research collaborations. Hit me up to discuss and collaborate on potential research problems! 
 
