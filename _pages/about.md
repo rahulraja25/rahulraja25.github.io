@@ -7,9 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m Rahul Raja, an Embedded Systems Engineer with a Master’s degree in Electrical and Computer Engineering from the University of Michigan. At Karh, I engineered battery management system (BMS) firmware with a focus on thermal fault detection, real-time control loop tuning, and system validation in distributed embedded environments.My technical foundation spans embedded C, Simulink, Python, and system-level modeling with a focus on building reliable, safety-critical systems that scale.
-
-Previously, I developed real-time industrial firmware on Micrium OS at Hitachi and reduced system latency through low-level optimization and hardware interfacing. I designed a custom LZW hardware accelerator for RISC-V systems using Chipyard and RoCC, achieving 8× speedup and validating performance with Python–Scala automation tools. I’m also the co-inventor of a patented marine safety alert system that improved emergency response reliability by 40% built for rugged use in offshore environments.
+I’m Rahul Raja, an Embedded Systems Engineer with a Master’s degree in Electrical and Computer Engineering from the University of Michigan. At Karh, I engineered battery management system (BMS) firmware with a focus on thermal fault detection, real-time control loop tuning, and system validation in distributed embedded environments. My technical foundation spans embedded C, Simulink, Python, and system-level modeling with a focus on building reliable, safety-critical systems that scale.
 
 My work blends embedded development, hardware-aware system design, and data-driven debugging across energy, automation, and safety tech. Whether it’s firmware for a prototype BMS or an SoC accelerator for a custom core, I focus on clarity, correctness, and pushing embedded systems to their best performance.
 Every system has its limits. I build the tools that push them further.
