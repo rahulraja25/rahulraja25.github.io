@@ -7,19 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Research Associate and lecturer at the University of Michigan. I graduated from the University of Michigan, Ann Arbor in 2023 and I was fortunate to be advised by [Stella X. Yu](http://web.eecs.umich.edu/~stellayu/index.html). I am broadly interested in machine learning with applications in Computer Vision and Natural Language Processing.
+I’m Rahul Raja, an Embedded Systems Engineer with a Master’s degree in Electrical and Computer Engineering from the University of Michigan.At Karh, I engineered battery management system (BMS) firmware with a focus on thermal fault detection, real-time control loop tuning, and system validation in distributed embedded environments.My technical foundation spans embedded C, Simulink, Python, and system-level modeling — with a focus on building reliable, safety-critical systems that scale.
 
-Over the past 2 years, I have developed a passion for seeing research from its initial conception to eventual deployable application. In this process, I have extensively learnt developing custom <b>CUDA kernels, LLM optimization, inference and distributed training techniques and MLOps</b> along the way. On the pure research side, I am currently enthusiastic about <b>post-training diffusion models with human feedback</b>. I'm excited to develop better controllability and alignment of multi-modal models in the coming years. I have also explored techniques for the emerging learning capabilities of Large language models (In-Context learning) and adapting diffusion models for dense prediction tasks and eliciting adversarial robustness. 
+Previously, I developed real-time industrial firmware on Micrium OS at Hitachi and reduced system latency through low-level optimization and hardware interfacing. I designed a custom LZW hardware accelerator for RISC-V systems using Chipyard and RoCC, achieving 8× speedup and validating performance with Python–Scala automation tools. I’m also the co-inventor of a patented marine safety alert system that improved emergency response reliability by 40% — built for rugged use in offshore environments.
 
-As a lecturer, I have developed a new Advanced Deep Learning course covering the advent of LLMs, variational inference and Diffusion models. Prior to joining UMich, I was a junior researcher at the [Indian Institute of Science](https://www.iisc.ac.in/) where I got to extensively work on meta-learning, active & self-supervised learning, domain adaptation and dense prediction tasks like semantic segmentation.
+My work blends embedded development, hardware-aware system design, and data-driven debugging — across energy, automation, and safety tech. Whether it’s firmware for a prototype BMS or an SoC accelerator for a custom core, I focus on clarity, correctness, and pushing embedded systems to their best performance.
+Every system has its limits. I build the tools that push them further.
 
-Before my stint at IISc, I was a Software Engineer in [Robert Bosch](https://www.bosch.in/) where I worked on applying statistical machine learning algorithms to develop component models for vehicle modelling software(VeMoX). In undergrad, I interned in the student satellite program from [ISRO](https://www.isro.gov.in/) where I worked on developing an attitude determination algorithm using Extended Kalman filters. 
+I’ve worked across hardware-software boundaries — from analog-level design to bootloader timing and field validation — with a sharp eye for failure modes and fault handling. Tools like JMP, FMEA, and Monte Carlo simulation aren’t just checkboxes — they help me build systems that hold up under pressure. I enjoy collaborating in high-ownership environments where every design decision gets tested in the real world. Across teams, I’ve been known to bring calm to chaos — organizing debug workflows, leading integration tests, and getting things unstuck. I'm deeply motivated by solving problems that matter, especially when they sit at the edge of innovation and reliability.
 
-I enjoy long treks, music from Pink Floyd and Odesza, learning about behavioural economics, psychology and exploring financial markets. I am an AI researcher by day and a geo-political analyst by night. An avid enthusiast of life, MMA, and F1:) 
+Off the clock, I lose myself in football — the only system I trust to run in real time without crashing. Messi? He’s not just my favorite player; he’s proof that genius can look effortless.
 
-I am open to research collaborations. Hit me up to discuss and collaborate on potential research problems! 
-
-<span style="color:red"> Update: I am on the Industry job market! Please reach out (narend@umich.edu) if I might be a good fit for your team. </span>
+<span style="color:red"> Update: I am on the Industry job market! Please reach out (rahur@umich.edu) if I might be a good fit for your team. </span>
 
 **News**:
 
