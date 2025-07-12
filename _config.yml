@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Naren Doraiswamy"
+title                    : "Rahul Raja"
 title_separator          : "-"
-name                     : &name "Naren Doraiswamy"
-description              : &description "AI Researcher, University of Michigan, Ann Arbor"
-url                      : https://narendoraiswamy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Rahul Raja"
+description              : &description "Electrical Engineering Intern, Karh, Ann Arbor"
+url                      : https://rahulraja.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "narendoraiswamy/narendoraiswamy.github.io"
+repository               : "raah25/rahulraja.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Naren Doraiswamy"
+  name             : "Rahul Raja"
   avatar           : "photo.jpg"
-  bio              : "AI Researcher, University of Michigan, Ann Arbor"
+  bio              : "Electrical Engineering Intern, Karh, Ann Arbor"
   location         : "Ann Arbor, USA"
-  employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=hEV36cgAAAAJ&hl=en&citsig=AMD79oqnFDw0IuoLpEYdoSd4PMfRaQcYmQ"
-  email            : "narendoraiswamy@gmail.com"
+  employer         : "Karh"
+  googlescholar    : 
+  email            : "rahur@umich.edu"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,19 +91,19 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "narendoraiswamy"
+  github           : "raah25"
   google_plus      : 
   keybase          :
   instagram        : 
   lastfm           :
-  linkedin         : "narendoraiswamy/"
+  linkedin         : "rahul-raja25"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "narendoraiswamy"
+  twitter          :
   vine             :
   weibo            :
   xing             :
