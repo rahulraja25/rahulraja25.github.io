@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Click here for my updated resume](files/Rahul Raja_Resume.pdf)
+[Click here for my updated resume](files/Rahul%20Raja_Resume.pdf)
