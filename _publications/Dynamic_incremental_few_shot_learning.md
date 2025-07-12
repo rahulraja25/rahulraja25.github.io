@@ -1,7 +1,7 @@
 ---
-title: "Weakly Supervised Few-shot Object Segmentation using Co-Attention with Visual and Semantic Embeddings"
+title: "Electrical Engineering Intern"
 collection: publications
-permalink: /publication/Dynamic_incremental_few_shot_learning
+permalink: /publication/Electrical Engineering Intern
 date: 2019-11-15
 venue: 'IJCAI 2020'
 citation: 'Mennatullah Siam*, <b>Naren Doraiswamy*</b>, Boris Oreshkin*, Hengshuai Yao, Martin Jagersand.(2019). <i>Accepted in IJCAI 2020</i>.'
