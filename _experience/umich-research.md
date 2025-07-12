@@ -1,7 +1,8 @@
 ---
 title: "Research Assistant – University of Michigan"
 collection: experience
-date: 2024-05-01
+date: 2024-05-06
+enddate: 2024-08-12
 location: Ann Arbor, MI
 ---
 
