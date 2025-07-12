@@ -2,6 +2,7 @@
 title: "Battery Management System Intern"
 collection: experience
 date: 2025-05-01
+enddate: Present
 location: Ann Arbor, MI
 ---
 
