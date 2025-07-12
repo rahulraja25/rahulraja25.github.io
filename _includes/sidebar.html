@@ -17,7 +17,14 @@
       {% if s.title %}<h3>{{ s.title }}</h3>{% endif %}
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
     {% endfor %}
-    {% endfor %}
+    <!-- ClustrMaps (small sidebar map) -->
+<div style="margin-top: 20px;">
+  {% raw %}
+  <script type="text/javascript" id="clustrmaps"
+    src="//clustrmaps.com/map_v2.js?d=YOUR_HASH&cl=ffffff&w=a"></script>
+  {% endraw %}
+</div>
+
     {% if page.sidebar.nav %}
       {% include nav_list nav=page.sidebar.nav %}
     {% endif %}
