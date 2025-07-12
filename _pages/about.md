@@ -19,27 +19,3 @@ I’ve worked across hardware-software boundaries from analog-level design to bo
 Off the clock, I lose myself in football the only system I trust to run in real time without crashing. Messi? He’s not just my favorite player; he’s proof that genius can look effortless.
 
 <span style="color:red"> Update: I am on the Industry job market! Please reach out (rahur@umich.edu) if I might be a good fit for your team. </span>
-
-**News**:
-
-<ul>
-  <li> Serving as a reviewer for <b>NeurIPS 2024</b>. </li>
-  <li> Serving as a reviewer for <b>IJCAI 2024</b>. </li>
-  <li> Serving as a reviewer for <b>ECCV 2024</b>. </li>
-  <li> Serving as a Graduate Student Instructor (GSI) at the School of Information in Winter 2023.</li>
-  <li> Serving as a Graduate Student Instructor (GSI) at the School of Information in fall 2022.</li>
-  <li> Serving as a reviewer for Transactions on Machine Learning Research. </li>  
-  <li> Serving as a reviewer for <b>WACV 2023</b>. </li>
-  <li> Starting my research internship in summer 2022. </li>
-  <li> Serving as a reviewer for <b>ACML 2022</b>. </li>
-  <li> Serving as a reviewer for <b>CVPR L3D-IVU Workshop 2022</b>. </li>
-  <li> Finally started grad school at UMich!! Wohoo. </li>
-  <li> Serving as a reviewer for <b>WACV 2022</b>. </li>
-  <li> Will be attending <b>EEML</b> summer school 2021. </li> 
-  <li> Our paper on semi-supervised domain adaptation has been accepted at <b>CVPR L2ID 2021</b> workshop. </li>
-  <li> Serving as a reviewer for IEEE Transactions on Multimedia. </li>
-  <li> I will be presenting our work at <b>IJCAI 2020</b> conference. </li>
-  <li> Serving as a reviewer for <b>WACV 2021</b>. </li>
-  <li> Served as a Pre-conference volunteer for <b>ICLR 2020</b>. </li>
-  <li> Our paper on weakly supervised few-shot segmentation is accepted at <b>IJCAI 2020</b>. </li>
-  <li> Our paper on few-shot object segmentation is accepted at <b>ICLR PML4DC 2020</b> workshop. </li> </ul>
