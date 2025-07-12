@@ -1,7 +1,8 @@
 ---
 title: "Embedded Systems Intern – Hitachi"
 collection: experience
-date: 2022-05-01
+date: 2022-05-02
+enddate: 2022-07-20
 location: Chennai, India
 ---
 
