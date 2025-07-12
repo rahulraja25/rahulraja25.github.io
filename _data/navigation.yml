@@ -16,8 +16,6 @@ main:
  #   url: /year-archive/
     
   - title: "CV"
-    url: https://github.com/rahulraja25/rahulraja25.github.io/blob/master/files/resume.pdf
-files/resume.pdf
-    
+    url: https://github.com/rahulraja25/rahulraja25.github.io/blob/master/files/resume.pdf 
   #- title: "Guide"
   #  url: /markdown/
